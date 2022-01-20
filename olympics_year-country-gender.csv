@@ -1,0 +1,380 @@
+﻿Year,Country,MenCount,WomenCount
+1924,Austria,2,2
+1924,Belgium,5,0
+1924,Canada,9,0
+1924,Finland,14,1
+1924,France,11,1
+1924,Norway,17,0
+1924,Sweden,9,0
+1924,Switzerland,9,0
+1924,United Kingdom,24,1
+1924,United States,12,1
+1928,Austria,3,3
+1928,Belgium,1,0
+1928,Canada,12,0
+1928,Czechoslovakia,1,0
+1928,Finland,4,0
+1928,France,1,1
+1928,Germany,5,0
+1928,Norway,14,1
+1928,Sweden,16,0
+1928,Switzerland,12,0
+1928,United Kingdom,1,0
+1928,United States,13,1
+1932,Austria,1,1
+1932,Canada,20,0
+1932,Finland,3,0
+1932,France,1,1
+1932,Germany,21,0
+1932,Hungary,1,1
+1932,Norway,9,1
+1932,Sweden,3,0
+1932,Switzerland,8,0
+1932,United States,43,2
+1936,Austria,4,1
+1936,Canada,13,0
+1936,Finland,9,0
+1936,France,1,0
+1936,Germany,4,3
+1936,Hungary,1,1
+1936,Norway,16,2
+1936,Sweden,9,1
+1936,Switzerland,10,0
+1936,United Kingdom,16,1
+1936,United States,16,0
+1948,Austria,2,6
+1948,Belgium,5,1
+1948,Canada,18,2
+1948,Czechoslovakia,17,0
+1948,Finland,9,0
+1948,France,5,0
+1948,Hungary,1,1
+1948,Italy,1,0
+1948,Norway,13,0
+1948,Sweden,13,0
+1948,Switzerland,26,2
+1948,United Kingdom,1,1
+1948,United States,14,2
+1952,Austria,6,2
+1952,Canada,17,0
+1952,Finland,9,3
+1952,France,0,1
+1952,Hungary,1,1
+1952,Italy,1,1
+1952,Netherlands,3,0
+1952,Norway,19,0
+1952,Sweden,23,0
+1952,Switzerland,6,0
+1952,United Kingdom,0,1
+1952,United States,26,4
+1952,West Germany,7,5
+1956,Austria,7,5
+1956,Canada,18,2
+1956,Finland,9,3
+1956,Hungary,1,1
+1956,Italy,8,0
+1956,Japan,1,0
+1956,Norway,4,0
+1956,Poland,1,0
+1956,Soviet Union,31,6
+1956,Sweden,11,4
+1956,Switzerland,7,3
+1956,United States,24,2
+1956,United Team of Germany,1,1
+1960,Austria,5,1
+1960,Canada,19,2
+1960,Czechoslovakia,1,0
+1960,Finland,9,4
+1960,France,3,0
+1960,Italy,0,1
+1960,Netherlands,1,1
+1960,Norway,9,0
+1960,Poland,0,2
+1960,Soviet Union,30,12
+1960,Sweden,6,3
+1960,Switzerland,1,1
+1960,United States,20,7
+1960,United Team of Germany,4,5
+1964,Austria,12,5
+1964,Canada,5,2
+1964,Czechoslovakia,17,0
+1964,Finland,9,6
+1964,France,3,4
+1964,Italy,10,0
+1964,"Korea, North",0,1
+1964,Netherlands,1,1
+1964,Norway,15,0
+1964,Soviet Union,28,18
+1964,Sweden,25,3
+1964,United Kingdom,2,0
+1964,United States,5,3
+1964,United Team of Germany,7,3
+1968,Austria,13,2
+1968,Canada,18,2
+1968,Czechoslovakia,20,1
+1968,East Germany,5,1
+1968,Finland,6,2
+1968,France,5,4
+1968,Italy,7,1
+1968,Netherlands,4,5
+1968,Norway,17,5
+1968,Romania,2,0
+1968,Soviet Union,28,9
+1968,Sweden,11,5
+1968,Switzerland,8,1
+1968,United States,2,5
+1968,West Germany,7,3
+1972,Austria,1,4
+1972,Canada,0,1
+1972,Czechoslovakia,19,1
+1972,East Germany,16,4
+1972,Finland,5,5
+1972,France,1,2
+1972,Italy,9,0
+1972,Japan,3,0
+1972,Netherlands,4,5
+1972,Norway,14,3
+1972,Poland,1,0
+1972,Soviet Union,35,10
+1972,Spain,1,0
+1972,Sweden,4,0
+1972,Switzerland,15,2
+1972,United States,18,7
+1972,West Germany,9,1
+1976,Austria,6,1
+1976,Canada,1,2
+1976,Czechoslovakia,18,0
+1976,East Germany,22,10
+1976,Finland,10,6
+1976,France,0,1
+1976,Italy,3,1
+1976,Liechtenstein,1,1
+1976,Netherlands,5,1
+1976,Norway,9,1
+1976,Soviet Union,40,16
+1976,Sweden,2,0
+1976,Switzerland,9,0
+1976,United Kingdom,1,0
+1976,United States,4,7
+1976,West Germany,28,4
+1980,Austria,7,1
+1980,Bulgaria,1,0
+1980,Canada,2,0
+1980,Czechoslovakia,0,1
+1980,East Germany,27,12
+1980,Finland,9,3
+1980,France,0,1
+1980,Hungary,1,1
+1980,Italy,3,0
+1980,Japan,1,0
+1980,Liechtenstein,1,3
+1980,Netherlands,2,2
+1980,Norway,11,5
+1980,Soviet Union,41,13
+1980,Sweden,22,0
+1980,Switzerland,7,2
+1980,United Kingdom,1,0
+1980,United States,26,4
+1980,West Germany,5,3
+1984,Austria,1,0
+1984,Canada,4,0
+1984,Czechoslovakia,22,6
+1984,East Germany,20,13
+1984,Finland,12,7
+1984,France,1,2
+1984,Italy,1,1
+1984,Japan,1,0
+1984,Liechtenstein,1,1
+1984,Norway,8,7
+1984,Soviet Union,46,10
+1984,Sweden,30,0
+1984,Switzerland,6,2
+1984,United Kingdom,1,1
+1984,United States,5,4
+1984,West Germany,8,0
+1984,Yugoslavia,1,0
+1988,Austria,10,2
+1988,Canada,2,4
+1988,Czechoslovakia,6,0
+1988,East Germany,18,14
+1988,Finland,28,6
+1988,France,2,0
+1988,Italy,8,0
+1988,Japan,1,0
+1988,Liechtenstein,1,0
+1988,Netherlands,4,3
+1988,Norway,7,4
+1988,Soviet Union,52,15
+1988,Sweden,30,0
+1988,Switzerland,13,7
+1988,United States,3,4
+1988,West Germany,11,3
+1988,Yugoslavia,5,1
+1992,Austria,21,8
+1992,Canada,30,7
+1992,China,0,3
+1992,Czechoslovakia,28,0
+1992,Finland,11,2
+1992,France,6,6
+1992,Germany,22,16
+1992,Italy,14,7
+1992,Japan,10,2
+1992,"Korea, North",0,1
+1992,"Korea, South",7,0
+1992,Luxembourg,2,0
+1992,Netherlands,4,0
+1992,New Zealand,0,1
+1992,Norway,23,5
+1992,Spain,0,1
+1992,Sweden,6,1
+1992,Switzerland,7,0
+1992,Unified Team,33,27
+1992,United States,2,12
+1994,Australia,4,0
+1994,Austria,8,4
+1994,Belarus,1,1
+1994,Canada,30,10
+1994,China,0,3
+1994,Finland,29,2
+1994,France,6,5
+1994,Germany,26,14
+1994,Italy,20,13
+1994,Japan,9,1
+1994,Kazakhstan,3,0
+1994,"Korea, South",3,7
+1994,Netherlands,4,0
+1994,Norway,27,7
+1994,Russia,16,20
+1994,Slovenia,1,2
+1994,Sweden,22,2
+1994,Switzerland,13,3
+1994,Ukraine,0,2
+1994,United Kingdom,2,1
+1994,United States,8,13
+1994,Uzbekistan,0,1
+1998,Australia,0,1
+1998,Austria,15,5
+1998,Belarus,2,0
+1998,Belgium,1,0
+1998,Bulgaria,0,1
+1998,Canada,16,33
+1998,China,6,8
+1998,Czech Republic,22,2
+1998,Denmark,0,5
+1998,Finland,39,20
+1998,France,12,3
+1998,Germany,19,25
+1998,Italy,10,7
+1998,Japan,11,2
+1998,Kazakhstan,1,1
+1998,"Korea, South",5,7
+1998,Netherlands,9,2
+1998,Norway,32,12
+1998,Russia,33,20
+1998,Sweden,1,6
+1998,Switzerland,13,1
+1998,Ukraine,0,1
+1998,United Kingdom,4,0
+1998,United States,7,27
+2002,Australia,1,1
+2002,Austria,18,2
+2002,Belarus,1,0
+2002,Bulgaria,0,3
+2002,Canada,38,37
+2002,China,7,9
+2002,Croatia,0,4
+2002,Czech Republic,1,2
+2002,Estonia,3,0
+2002,Finland,13,0
+2002,France,9,6
+2002,Germany,32,29
+2002,Italy,12,9
+2002,Japan,1,1
+2002,"Korea, South",0,7
+2002,Netherlands,6,2
+2002,Norway,28,13
+2002,Poland,2,0
+2002,Russia,29,11
+2002,Slovenia,4,0
+2002,Sweden,2,24
+2002,Switzerland,13,11
+2002,United Kingdom,0,6
+2002,United States,53,31
+2006,Australia,1,1
+2006,Austria,24,6
+2006,Belarus,1,0
+2006,Bulgaria,0,1
+2006,Canada,21,47
+2006,China,4,9
+2006,Croatia,1,2
+2006,Czech Republic,26,2
+2006,Estonia,1,2
+2006,Finland,40,3
+2006,France,9,6
+2006,Germany,27,27
+2006,Italy,15,10
+2006,Japan,0,1
+2006,"Korea, South",11,8
+2006,Latvia,1,0
+2006,Netherlands,9,4
+2006,Norway,19,4
+2006,Poland,1,1
+2006,Russia,18,23
+2006,Slovakia,1,0
+2006,Sweden,32,33
+2006,Switzerland,12,10
+2006,Ukraine,1,2
+2006,United Kingdom,0,1
+2006,United States,24,29
+2010,Australia,1,2
+2010,Austria,20,6
+2010,Belarus,2,1
+2010,Canada,47,44
+2010,China,3,17
+2010,Croatia,3,0
+2010,Czech Republic,5,4
+2010,Estonia,0,1
+2010,Finland,24,26
+2010,France,6,8
+2010,Germany,25,29
+2010,Italy,4,1
+2010,Japan,3,4
+2010,Kazakhstan,0,1
+2010,"Korea, South",13,5
+2010,Latvia,3,0
+2010,Netherlands,7,4
+2010,Norway,30,10
+2010,Poland,2,6
+2010,Russia,16,9
+2010,Slovakia,1,2
+2010,Slovenia,0,3
+2010,Sweden,9,10
+2010,Switzerland,12,1
+2010,United Kingdom,0,1
+2010,United States,60,38
+2014,Australia,1,2
+2014,Austria,19,8
+2014,Belarus,1,5
+2014,Canada,46,44
+2014,China,8,5
+2014,Croatia,1,0
+2014,Czech Republic,5,6
+2014,Finland,27,7
+2014,France,15,3
+2014,Germany,22,14
+2014,Italy,5,9
+2014,Japan,9,2
+2014,Kazakhstan,1,0
+2014,"Korea, South",3,11
+2014,Latvia,10,1
+2014,Netherlands,16,13
+2014,Norway,18,18
+2014,Poland,6,5
+2014,Russia,45,23
+2014,Slovakia,0,1
+2014,Slovenia,4,4
+2014,Sweden,41,14
+2014,Switzerland,7,25
+2014,Ukraine,0,5
+2014,United Kingdom,5,7
+2014,United States,25,40
