@@ -1,0 +1,630 @@
+﻿Year,Country,Gender,MedalCount
+1924,Austria,Men,2
+1924,Austria,Women,2
+1924,Belgium,Men,5
+1924,Canada,Men,9
+1924,Finland,Men,14
+1924,Finland,Women,1
+1924,France,Men,11
+1924,France,Women,1
+1924,Norway,Men,17
+1924,Sweden,Men,9
+1924,Switzerland,Men,9
+1924,United Kingdom,Men,24
+1924,United Kingdom,Women,1
+1924,United States,Men,12
+1924,United States,Women,1
+1928,Austria,Men,3
+1928,Austria,Women,3
+1928,Belgium,Men,1
+1928,Canada,Men,12
+1928,Czechoslovakia,Men,1
+1928,Finland,Men,4
+1928,France,Men,1
+1928,France,Women,1
+1928,Germany,Men,5
+1928,Norway,Men,14
+1928,Norway,Women,1
+1928,Sweden,Men,16
+1928,Switzerland,Men,12
+1928,United Kingdom,Men,1
+1928,United States,Men,13
+1928,United States,Women,1
+1932,Austria,Men,1
+1932,Austria,Women,1
+1932,Canada,Men,20
+1932,Finland,Men,3
+1932,France,Men,1
+1932,France,Women,1
+1932,Germany,Men,21
+1932,Hungary,Men,1
+1932,Hungary,Women,1
+1932,Norway,Men,9
+1932,Norway,Women,1
+1932,Sweden,Men,3
+1932,Switzerland,Men,8
+1932,United States,Men,43
+1932,United States,Women,2
+1936,Austria,Men,4
+1936,Austria,Women,1
+1936,Canada,Men,13
+1936,Finland,Men,9
+1936,France,Men,1
+1936,Germany,Men,4
+1936,Germany,Women,3
+1936,Hungary,Men,1
+1936,Hungary,Women,1
+1936,Norway,Men,16
+1936,Norway,Women,2
+1936,Sweden,Men,9
+1936,Sweden,Women,1
+1936,Switzerland,Men,10
+1936,United Kingdom,Men,16
+1936,United Kingdom,Women,1
+1936,United States,Men,16
+1948,Austria,Men,2
+1948,Austria,Women,6
+1948,Belgium,Men,5
+1948,Belgium,Women,1
+1948,Canada,Men,18
+1948,Canada,Women,2
+1948,Czechoslovakia,Men,17
+1948,Finland,Men,9
+1948,France,Men,5
+1948,Hungary,Men,1
+1948,Hungary,Women,1
+1948,Italy,Men,1
+1948,Norway,Men,13
+1948,Sweden,Men,13
+1948,Switzerland,Men,26
+1948,Switzerland,Women,2
+1948,United Kingdom,Men,1
+1948,United Kingdom,Women,1
+1948,United States,Men,14
+1948,United States,Women,2
+1952,Austria,Men,6
+1952,Austria,Women,2
+1952,Canada,Men,17
+1952,Finland,Men,9
+1952,Finland,Women,3
+1952,France,Women,1
+1952,Hungary,Men,1
+1952,Hungary,Women,1
+1952,Italy,Men,1
+1952,Italy,Women,1
+1952,Netherlands,Men,3
+1952,Norway,Men,19
+1952,Sweden,Men,23
+1952,Switzerland,Men,6
+1952,United Kingdom,Women,1
+1952,United States,Men,26
+1952,United States,Women,4
+1952,West Germany,Men,7
+1952,West Germany,Women,5
+1956,Austria,Men,7
+1956,Austria,Women,5
+1956,Canada,Men,18
+1956,Canada,Women,2
+1956,Finland,Men,9
+1956,Finland,Women,3
+1956,Hungary,Men,1
+1956,Hungary,Women,1
+1956,Italy,Men,8
+1956,Japan,Men,1
+1956,Norway,Men,4
+1956,Poland,Men,1
+1956,Soviet Union,Men,31
+1956,Soviet Union,Women,6
+1956,Sweden,Men,11
+1956,Sweden,Women,4
+1956,Switzerland,Men,7
+1956,Switzerland,Women,3
+1956,United States,Men,24
+1956,United States,Women,2
+1956,United Team of Germany,Men,1
+1956,United Team of Germany,Women,1
+1960,Austria,Men,5
+1960,Austria,Women,1
+1960,Canada,Men,19
+1960,Canada,Women,2
+1960,Czechoslovakia,Men,1
+1960,Finland,Men,9
+1960,Finland,Women,4
+1960,France,Men,3
+1960,Italy,Women,1
+1960,Netherlands,Men,1
+1960,Netherlands,Women,1
+1960,Norway,Men,9
+1960,Poland,Women,2
+1960,Soviet Union,Men,30
+1960,Soviet Union,Women,12
+1960,Sweden,Men,6
+1960,Sweden,Women,3
+1960,Switzerland,Men,1
+1960,Switzerland,Women,1
+1960,United States,Men,20
+1960,United States,Women,7
+1960,United Team of Germany,Men,4
+1960,United Team of Germany,Women,5
+1964,Austria,Men,12
+1964,Austria,Women,5
+1964,Canada,Men,5
+1964,Canada,Women,2
+1964,Czechoslovakia,Men,17
+1964,Finland,Men,9
+1964,Finland,Women,6
+1964,France,Men,3
+1964,France,Women,4
+1964,Italy,Men,10
+1964,"Korea, North",Women,1
+1964,Netherlands,Men,1
+1964,Netherlands,Women,1
+1964,Norway,Men,15
+1964,Soviet Union,Men,28
+1964,Soviet Union,Women,18
+1964,Sweden,Men,25
+1964,Sweden,Women,3
+1964,United Kingdom,Men,2
+1964,United States,Men,5
+1964,United States,Women,3
+1964,United Team of Germany,Men,7
+1964,United Team of Germany,Women,3
+1968,Austria,Men,13
+1968,Austria,Women,2
+1968,Canada,Men,18
+1968,Canada,Women,2
+1968,Czechoslovakia,Men,20
+1968,Czechoslovakia,Women,1
+1968,East Germany,Men,5
+1968,East Germany,Women,1
+1968,Finland,Men,6
+1968,Finland,Women,2
+1968,France,Men,5
+1968,France,Women,4
+1968,Italy,Men,7
+1968,Italy,Women,1
+1968,Netherlands,Men,4
+1968,Netherlands,Women,5
+1968,Norway,Men,17
+1968,Norway,Women,5
+1968,Romania,Men,2
+1968,Soviet Union,Men,28
+1968,Soviet Union,Women,9
+1968,Sweden,Men,11
+1968,Sweden,Women,5
+1968,Switzerland,Men,8
+1968,Switzerland,Women,1
+1968,United States,Men,2
+1968,United States,Women,5
+1968,West Germany,Men,7
+1968,West Germany,Women,3
+1972,Austria,Men,1
+1972,Austria,Women,4
+1972,Canada,Women,1
+1972,Czechoslovakia,Men,19
+1972,Czechoslovakia,Women,1
+1972,East Germany,Men,16
+1972,East Germany,Women,4
+1972,Finland,Men,5
+1972,Finland,Women,5
+1972,France,Men,1
+1972,France,Women,2
+1972,Italy,Men,9
+1972,Japan,Men,3
+1972,Netherlands,Men,4
+1972,Netherlands,Women,5
+1972,Norway,Men,14
+1972,Norway,Women,3
+1972,Poland,Men,1
+1972,Soviet Union,Men,35
+1972,Soviet Union,Women,10
+1972,Spain,Men,1
+1972,Sweden,Men,4
+1972,Switzerland,Men,15
+1972,Switzerland,Women,2
+1972,United States,Men,18
+1972,United States,Women,7
+1972,West Germany,Men,9
+1972,West Germany,Women,1
+1976,Austria,Men,6
+1976,Austria,Women,1
+1976,Canada,Men,1
+1976,Canada,Women,2
+1976,Czechoslovakia,Men,18
+1976,East Germany,Men,22
+1976,East Germany,Women,10
+1976,Finland,Men,10
+1976,Finland,Women,6
+1976,France,Women,1
+1976,Italy,Men,3
+1976,Italy,Women,1
+1976,Liechtenstein,Men,1
+1976,Liechtenstein,Women,1
+1976,Netherlands,Men,5
+1976,Netherlands,Women,1
+1976,Norway,Men,9
+1976,Norway,Women,1
+1976,Soviet Union,Men,40
+1976,Soviet Union,Women,16
+1976,Sweden,Men,2
+1976,Switzerland,Men,9
+1976,United Kingdom,Men,1
+1976,United States,Men,4
+1976,United States,Women,7
+1976,West Germany,Men,28
+1976,West Germany,Women,4
+1980,Austria,Men,7
+1980,Austria,Women,1
+1980,Bulgaria,Men,1
+1980,Canada,Men,2
+1980,Czechoslovakia,Women,1
+1980,East Germany,Men,27
+1980,East Germany,Women,12
+1980,Finland,Men,9
+1980,Finland,Women,3
+1980,France,Women,1
+1980,Hungary,Men,1
+1980,Hungary,Women,1
+1980,Italy,Men,3
+1980,Japan,Men,1
+1980,Liechtenstein,Men,1
+1980,Liechtenstein,Women,3
+1980,Netherlands,Men,2
+1980,Netherlands,Women,2
+1980,Norway,Men,11
+1980,Norway,Women,5
+1980,Soviet Union,Men,41
+1980,Soviet Union,Women,13
+1980,Sweden,Men,22
+1980,Switzerland,Men,7
+1980,Switzerland,Women,2
+1980,United Kingdom,Men,1
+1980,United States,Men,26
+1980,United States,Women,4
+1980,West Germany,Men,5
+1980,West Germany,Women,3
+1984,Austria,Men,1
+1984,Canada,Men,4
+1984,Czechoslovakia,Men,22
+1984,Czechoslovakia,Women,6
+1984,East Germany,Men,20
+1984,East Germany,Women,13
+1984,Finland,Men,12
+1984,Finland,Women,7
+1984,France,Men,1
+1984,France,Women,2
+1984,Italy,Men,1
+1984,Italy,Women,1
+1984,Japan,Men,1
+1984,Liechtenstein,Men,1
+1984,Liechtenstein,Women,1
+1984,Norway,Men,8
+1984,Norway,Women,7
+1984,Soviet Union,Men,46
+1984,Soviet Union,Women,10
+1984,Sweden,Men,30
+1984,Switzerland,Men,6
+1984,Switzerland,Women,2
+1984,United Kingdom,Men,1
+1984,United Kingdom,Women,1
+1984,United States,Men,5
+1984,United States,Women,4
+1984,West Germany,Men,8
+1984,Yugoslavia,Men,1
+1988,Austria,Men,10
+1988,Austria,Women,2
+1988,Canada,Men,2
+1988,Canada,Women,4
+1988,Czechoslovakia,Men,6
+1988,East Germany,Men,18
+1988,East Germany,Women,14
+1988,Finland,Men,28
+1988,Finland,Women,6
+1988,France,Men,2
+1988,Italy,Men,8
+1988,Japan,Men,1
+1988,Liechtenstein,Men,1
+1988,Netherlands,Men,4
+1988,Netherlands,Women,3
+1988,Norway,Men,7
+1988,Norway,Women,4
+1988,Soviet Union,Men,52
+1988,Soviet Union,Women,15
+1988,Sweden,Men,30
+1988,Switzerland,Men,13
+1988,Switzerland,Women,7
+1988,United States,Men,3
+1988,United States,Women,4
+1988,West Germany,Men,11
+1988,West Germany,Women,3
+1988,Yugoslavia,Men,5
+1988,Yugoslavia,Women,1
+1992,Austria,Men,21
+1992,Austria,Women,8
+1992,Canada,Men,30
+1992,Canada,Women,7
+1992,China,Women,3
+1992,Czechoslovakia,Men,28
+1992,Finland,Men,11
+1992,Finland,Women,2
+1992,France,Men,6
+1992,France,Women,6
+1992,Germany,Men,22
+1992,Germany,Women,16
+1992,Italy,Men,14
+1992,Italy,Women,7
+1992,Japan,Men,10
+1992,Japan,Women,2
+1992,"Korea, North",Women,1
+1992,"Korea, South",Men,7
+1992,Luxembourg,Men,2
+1992,Netherlands,Men,4
+1992,New Zealand,Women,1
+1992,Norway,Men,23
+1992,Norway,Women,5
+1992,Spain,Women,1
+1992,Sweden,Men,6
+1992,Sweden,Women,1
+1992,Switzerland,Men,7
+1992,Unified Team,Men,33
+1992,Unified Team,Women,27
+1992,United States,Men,2
+1992,United States,Women,12
+1994,Australia,Men,4
+1994,Austria,Men,8
+1994,Austria,Women,4
+1994,Belarus,Men,1
+1994,Belarus,Women,1
+1994,Canada,Men,30
+1994,Canada,Women,10
+1994,China,Women,3
+1994,Finland,Men,29
+1994,Finland,Women,2
+1994,France,Men,6
+1994,France,Women,5
+1994,Germany,Men,26
+1994,Germany,Women,14
+1994,Italy,Men,20
+1994,Italy,Women,13
+1994,Japan,Men,9
+1994,Japan,Women,1
+1994,Kazakhstan,Men,3
+1994,"Korea, South",Men,3
+1994,"Korea, South",Women,7
+1994,Netherlands,Men,4
+1994,Norway,Men,27
+1994,Norway,Women,7
+1994,Russia,Men,16
+1994,Russia,Women,20
+1994,Slovenia,Men,1
+1994,Slovenia,Women,2
+1994,Sweden,Men,22
+1994,Sweden,Women,2
+1994,Switzerland,Men,13
+1994,Switzerland,Women,3
+1994,Ukraine,Women,2
+1994,United Kingdom,Men,2
+1994,United Kingdom,Women,1
+1994,United States,Men,8
+1994,United States,Women,13
+1994,Uzbekistan,Women,1
+1998,Australia,Women,1
+1998,Austria,Men,15
+1998,Austria,Women,5
+1998,Belarus,Men,2
+1998,Belgium,Men,1
+1998,Bulgaria,Women,1
+1998,Canada,Men,16
+1998,Canada,Women,33
+1998,China,Men,6
+1998,China,Women,8
+1998,Czech Republic,Men,22
+1998,Czech Republic,Women,2
+1998,Denmark,Women,5
+1998,Finland,Men,39
+1998,Finland,Women,20
+1998,France,Men,12
+1998,France,Women,3
+1998,Germany,Men,19
+1998,Germany,Women,25
+1998,Italy,Men,10
+1998,Italy,Women,7
+1998,Japan,Men,11
+1998,Japan,Women,2
+1998,Kazakhstan,Men,1
+1998,Kazakhstan,Women,1
+1998,"Korea, South",Men,5
+1998,"Korea, South",Women,7
+1998,Netherlands,Men,9
+1998,Netherlands,Women,2
+1998,Norway,Men,32
+1998,Norway,Women,12
+1998,Russia,Men,33
+1998,Russia,Women,20
+1998,Sweden,Men,1
+1998,Sweden,Women,6
+1998,Switzerland,Men,13
+1998,Switzerland,Women,1
+1998,Ukraine,Women,1
+1998,United Kingdom,Men,4
+1998,United States,Men,7
+1998,United States,Women,27
+2002,Australia,Men,1
+2002,Australia,Women,1
+2002,Austria,Men,18
+2002,Austria,Women,2
+2002,Belarus,Men,1
+2002,Bulgaria,Women,3
+2002,Canada,Men,38
+2002,Canada,Women,37
+2002,China,Men,7
+2002,China,Women,9
+2002,Croatia,Women,4
+2002,Czech Republic,Men,1
+2002,Czech Republic,Women,2
+2002,Estonia,Men,3
+2002,Finland,Men,13
+2002,France,Men,9
+2002,France,Women,6
+2002,Germany,Men,32
+2002,Germany,Women,29
+2002,Italy,Men,12
+2002,Italy,Women,9
+2002,Japan,Men,1
+2002,Japan,Women,1
+2002,"Korea, South",Women,7
+2002,Netherlands,Men,6
+2002,Netherlands,Women,2
+2002,Norway,Men,28
+2002,Norway,Women,13
+2002,Poland,Men,2
+2002,Russia,Men,29
+2002,Russia,Women,11
+2002,Slovenia,Men,4
+2002,Sweden,Men,2
+2002,Sweden,Women,24
+2002,Switzerland,Men,13
+2002,Switzerland,Women,11
+2002,United Kingdom,Women,6
+2002,United States,Men,53
+2002,United States,Women,31
+2006,Australia,Men,1
+2006,Australia,Women,1
+2006,Austria,Men,24
+2006,Austria,Women,6
+2006,Belarus,Men,1
+2006,Bulgaria,Women,1
+2006,Canada,Men,21
+2006,Canada,Women,47
+2006,China,Men,4
+2006,China,Women,9
+2006,Croatia,Men,1
+2006,Croatia,Women,2
+2006,Czech Republic,Men,26
+2006,Czech Republic,Women,2
+2006,Estonia,Men,1
+2006,Estonia,Women,2
+2006,Finland,Men,40
+2006,Finland,Women,3
+2006,France,Men,9
+2006,France,Women,6
+2006,Germany,Men,27
+2006,Germany,Women,27
+2006,Italy,Men,15
+2006,Italy,Women,10
+2006,Japan,Women,1
+2006,"Korea, South",Men,11
+2006,"Korea, South",Women,8
+2006,Latvia,Men,1
+2006,Netherlands,Men,9
+2006,Netherlands,Women,4
+2006,Norway,Men,19
+2006,Norway,Women,4
+2006,Poland,Men,1
+2006,Poland,Women,1
+2006,Russia,Men,18
+2006,Russia,Women,23
+2006,Slovakia,Men,1
+2006,Sweden,Men,32
+2006,Sweden,Women,33
+2006,Switzerland,Men,12
+2006,Switzerland,Women,10
+2006,Ukraine,Men,1
+2006,Ukraine,Women,2
+2006,United Kingdom,Women,1
+2006,United States,Men,24
+2006,United States,Women,29
+2010,Australia,Men,1
+2010,Australia,Women,2
+2010,Austria,Men,20
+2010,Austria,Women,6
+2010,Belarus,Men,2
+2010,Belarus,Women,1
+2010,Canada,Men,47
+2010,Canada,Women,44
+2010,China,Men,3
+2010,China,Women,17
+2010,Croatia,Men,3
+2010,Czech Republic,Men,5
+2010,Czech Republic,Women,4
+2010,Estonia,Women,1
+2010,Finland,Men,24
+2010,Finland,Women,26
+2010,France,Men,6
+2010,France,Women,8
+2010,Germany,Men,25
+2010,Germany,Women,29
+2010,Italy,Men,4
+2010,Italy,Women,1
+2010,Japan,Men,3
+2010,Japan,Women,4
+2010,Kazakhstan,Women,1
+2010,"Korea, South",Men,13
+2010,"Korea, South",Women,5
+2010,Latvia,Men,3
+2010,Netherlands,Men,7
+2010,Netherlands,Women,4
+2010,Norway,Men,30
+2010,Norway,Women,10
+2010,Poland,Men,2
+2010,Poland,Women,6
+2010,Russia,Men,16
+2010,Russia,Women,9
+2010,Slovakia,Men,1
+2010,Slovakia,Women,2
+2010,Slovenia,Women,3
+2010,Sweden,Men,9
+2010,Sweden,Women,10
+2010,Switzerland,Men,12
+2010,Switzerland,Women,1
+2010,United Kingdom,Women,1
+2010,United States,Men,60
+2010,United States,Women,38
+2014,Australia,Men,1
+2014,Australia,Women,2
+2014,Austria,Men,19
+2014,Austria,Women,8
+2014,Belarus,Men,1
+2014,Belarus,Women,5
+2014,Canada,Men,46
+2014,Canada,Women,44
+2014,China,Men,8
+2014,China,Women,5
+2014,Croatia,Men,1
+2014,Czech Republic,Men,5
+2014,Czech Republic,Women,6
+2014,Finland,Men,27
+2014,Finland,Women,7
+2014,France,Men,15
+2014,France,Women,3
+2014,Germany,Men,22
+2014,Germany,Women,14
+2014,Italy,Men,5
+2014,Italy,Women,9
+2014,Japan,Men,9
+2014,Japan,Women,2
+2014,Kazakhstan,Men,1
+2014,"Korea, South",Men,3
+2014,"Korea, South",Women,11
+2014,Latvia,Men,10
+2014,Latvia,Women,1
+2014,Netherlands,Men,16
+2014,Netherlands,Women,13
+2014,Norway,Men,18
+2014,Norway,Women,18
+2014,Poland,Men,6
+2014,Poland,Women,5
+2014,Russia,Men,45
+2014,Russia,Women,23
+2014,Slovakia,Women,1
+2014,Slovenia,Men,4
+2014,Slovenia,Women,4
+2014,Sweden,Men,41
+2014,Sweden,Women,14
+2014,Switzerland,Men,7
+2014,Switzerland,Women,25
+2014,Ukraine,Women,5
+2014,United Kingdom,Men,5
+2014,United Kingdom,Women,7
+2014,United States,Men,25
+2014,United States,Women,40
